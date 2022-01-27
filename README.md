@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaimeCalvente
 - 👀 I’m interested in Web Dev, React and Blockchain dAap Dev.
-- 🌱 I’m currently learning a Full Stack program in Web Development with React
-- 💞️ I’m looking to collaborate on anything related with Web Development and Blockchain
+- 🌱 I’m currently learning a Full Stack program in Web Development with Angular and .Net
+- 💞️ I’m looking to collaborate on anything related with Web Development and Blockchain DAaps
 - 📫 How to reach me https://twitter.com/Jaime_Calvente
 
 <!---
