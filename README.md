@@ -2,7 +2,7 @@
 
 I'm Jaime from Spain. I am currently studying my **Bachelor's Degree in Computer Science** (Online) at the UOC University in Barcelona. I create **Plc programs** 💻 to control process like "**State Machines**", "**Cooling❄️ and Heating☀️ Systems**", "**Dosing and Mixing**", "**Pressure Control Systems**" and much more. I really enjoy working with technologies such as **STEP7**, **TIA PORTAL**, **CODESYS** and **ROCKWELL** for Plc programming and Motion control, followind IEC Standars and using predominantly the **AWL, FUP and SCL** lenguages.
 
-A part from Plc programming, I enjoy making projects and programming **embedded systems** like **Arduino** and **ST boards**. As I get more experience in this field, I want to experiment with **computer vision**, **Machine learning**, **Neurol networks** and **Augmented reality** all of them fascinate me.
+A part from Plc programming, I enjoy making projects and programming **embedded systems** like **Arduino**. As I get more experience in this field, I want to experiment with **computer vision**, **Machine learning**, **Neurol networks** and **Augmented reality** all of them fascinate me.
 
 I also have knowledge with programming lenguages like **C/C++**, **Python**, **JavaScript**, **HTML** and **CSS**.
 
