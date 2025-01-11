@@ -1,9 +1,7 @@
 ## Welcome to my profile!
 
-I'm Jaime from Spain. I am a **Software developer for automation realm**. I create **Plc programs** 💻 to control process like "**State Machines**", "**Cooling❄️ and Heating☀️ Systems**", "**Dosing and Mixing**", "**Pressure Control Systems**" and much more. I really enjoy working with technologies such as **STEP7**, **TIA PORTAL**, **CODESYS** and **TWINCAT**. 
+Software Developer specializing in automation and intelligent systems. I create and implement PLC programs to control complex processes, including state machines, cooling ❄️ and heating ☀️ systems, dosing and mixing, and pressure control systems, using technologies like STEP7, TIA Portal, CODESYS, and TwinCAT.
 
-A part from Plc programming, I enjoy learning new topics such as **AI for Automating tasks**, **Computer Vision** and **AI agents**. 
+Passionate about driving innovation in automation, I am constantly exploring cutting-edge fields like AI for task automation, computer vision, and intelligent agents. Combining technical expertise and creativity, I aim to develop transformative solutions that shape the future of technology.
 
-I also have knowledge with programming lenguages like **C#**, **Java**, **Python**, **JavaScript**, **HTML** and **CSS**.
-
-Take a look inside and let's meet us there!. 
+Proficient in programming languages such as C#, Java, Python, JavaScript, HTML, and CSS, I bring a versatile skill set to every project. Let’s collaborate to build smarter systems for tomorrow!
