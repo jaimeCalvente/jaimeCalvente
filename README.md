@@ -1,7 +1,64 @@
-## Welcome to my profile!
+# 👋 Hi, I'm Jaime Calvente Mieres
 
-Software Developer specializing in automation and intelligent systems. I create and implement PLC programs to control complex processes, including state machines, cooling ❄️ and heating ☀️ systems, dosing and mixing, and pressure control systems, using technologies like STEP7, TIA Portal, CODESYS, and TwinCAT.
+## 🏭 Industrial Automation Engineer
 
-Passionate about driving innovation in automation, I am constantly exploring cutting-edge fields like AI for task automation, computer vision, and intelligent agents. Combining technical expertise and creativity, I aim to develop transformative solutions that shape the future of technology.
+I design and implement intelligent control systems at the intersection of traditional PLCs and modern software engineering.
 
-I bring a versatile skill set to every project. Let’s collaborate to build smarter systems for tomorrow!
+### 💼 What I Do
+
+**Control Systems Engineer** specializing in:
+- 🏭 **Complex Manufacturing**: Multi-subsystem coordination, state machines, process control
+- 🤖 **Robotics Integration**: Motion control, safety systems, real-time communication
+- 🔧 **Industrial Protocols**: OPC UA, MQTT, EtherCAT, IO-Link
+- 📊 **System Architecture**: SOLID principles applied to PLC design
+
+**Technologies**: TwinCAT 3, TIA Portal, CODESYS, STEP7
+
+---
+
+### 🚀 Current Interests
+
+I'm exploring the intersection of **industrial automation and AI**:
+- 🤖 **Multi-agent systems** for engineering workflows
+- 🔍 **Computer vision** for quality control
+- 📝 **Code generation** and intelligent assistants
+- 🧠 **LLMs applied to industrial domains**
+
+
+---
+
+### 🛠️ Tech Stack
+
+**Industrial Automation**  
+`TwinCAT` `TIA Portal` `CODESYS` `STEP7` `IEC 61131-3` `Structured Text`
+
+**Communication & Integration**  
+`OPC UA` `MQTT` `EtherCAT` `IO-Link` `Modbus`
+
+**Software Development**  
+`Python` `C#` `.NET` `Git` `Docker`
+
+**Current Learning**  
+`AI Agents` `LLMs` `Model Context Protocol (MCP)` `Multi-Agent Orchestration`
+
+---
+
+### 🌟 Featured Projects
+
+
+---
+
+### 📊 GitHub Stats
+
+
+---
+
+### 🤝 Let's Connect
+
+Interested in **industrial automation**, **PLC architecture**, or **AI for engineering**?
+
+📫 **Reach me**: [LinkedIn]([https://www.linkedin.com/in/jaime-calvente-mieres-1ba861253/)
+
+---
+
+💡 **"The future of industrial automation is intelligent, modular, and autonomous."**
