@@ -57,7 +57,7 @@ I'm exploring the intersection of **industrial automation and AI**:
 
 Interested in **industrial automation**, **PLC architecture**, or **AI for engineering**?
 
-📫 **Reach me**: [LinkedIn]([https://www.linkedin.com/in/jaime-calvente-mieres-1ba861253/])
+📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/jaime-calvente-mieres-1ba861253/)
 
 ---
 
